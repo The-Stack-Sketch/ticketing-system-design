@@ -5,6 +5,12 @@ Companion code for **The Stack Sketch** video *How to Design a Ticketing System 
 We build one ticketing API step by step, and every fix is proven with a test you can run yourself.
 Written fresh for the channel. The payment gateway is a mock: no real cards, no real money.
 
+# ticketing-system-design
+
+[![Watch: How to Design a Ticketing System for 100,000 Fans](docs/thumbnail.png)](https://youtu.be/8tCpzb1CG8E)
+
+▶️ **[Watch the full video on YouTube](https://youtu.be/8tCpzb1CG8E)** · More from [The Stack Sketch](https://www.youtube.com/@TheStackSketch)
+
 ## Run it
 
 You need Node.js 22 and Docker.
